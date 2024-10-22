@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing MinePvP"];
+const statusMessages = ["Playing BlueMC"];
 
 
 let currentIndex = 0;
